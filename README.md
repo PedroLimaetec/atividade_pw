@@ -24,7 +24,8 @@
 
 ## Middleware
 
-<img width="572" height="407" alt="Captura de tela 2025-11-19 182624" src="https://github.com/user-attachments/assets/5b020e96-699d-4679-817b-f254a6520260" />
+<img width="659" height="471" alt="image" src="https://github.com/user-attachments/assets/86031377-85fd-4202-b3fc-d778c04c4a86" />
+
 
 <img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/384a75c9-02ca-430a-825d-ecb41c0acc81" />
 
