@@ -26,4 +26,5 @@
 
 <img width="572" height="407" alt="Captura de tela 2025-11-19 182624" src="https://github.com/user-attachments/assets/5b020e96-699d-4679-817b-f254a6520260" />
 
-<img width="728" height="351" alt="Captura de tela 2025-11-19 182649" src="https://github.com/user-attachments/assets/f9502394-5d8b-412c-9e83-8e3d9d5fecb3" />
+<img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/384a75c9-02ca-430a-825d-ecb41c0acc81" />
+
