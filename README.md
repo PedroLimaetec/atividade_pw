@@ -1,6 +1,7 @@
 ## Imagem funcionamento
 
-<img width="1855" height="883" alt="Captura de tela 2025-11-19 175458" src="https://github.com/user-attachments/assets/87a4d47d-3e92-4f6f-ae68-463b950c3445" />
+<img width="419" height="365" alt="image" src="https://github.com/user-attachments/assets/35cb1ad9-f2cf-46f6-8bc2-d5e5696ae546" />
+
 
 <img width="1855" height="804" alt="Captura de tela 2025-11-19 175517" src="https://github.com/user-attachments/assets/e030e486-d6f2-40c5-a801-b949a1cfe56b" />
 
