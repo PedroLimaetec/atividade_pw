@@ -1,4 +1,4 @@
-## Imagem funcionamento
+FUNCIONAMENTO 
 
 <img width="419" height="365" alt="image" src="https://github.com/user-attachments/assets/35cb1ad9-f2cf-46f6-8bc2-d5e5696ae546" />
 
@@ -18,13 +18,13 @@
 
 <img width="1017" height="612" alt="Captura de tela 2025-11-19 175745" src="https://github.com/user-attachments/assets/61b2f5cd-eab3-465e-9d6d-a7606008e15e" />
 
-## Banco de dados
+BANCO DE DADOS
 
 <img width="1874" height="689" alt="image" src="https://github.com/user-attachments/assets/8520bed2-1854-4819-b030-7a64e09395e5" />
 
 <img width="1871" height="802" alt="Captura de tela 2025-11-19 182354" src="https://github.com/user-attachments/assets/1b15c001-0adc-43d3-8079-be09748cf8c0" />
 
-## Middleware
+MIDDLEWARE
 
 <img width="659" height="471" alt="image" src="https://github.com/user-attachments/assets/86031377-85fd-4202-b3fc-d778c04c4a86" />
 
